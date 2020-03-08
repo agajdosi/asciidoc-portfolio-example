@@ -1,0 +1,63 @@
+:icons:
+:imagesdir: img
+:toc: macro
+:toc-title: Contents
+:toclevels: 3
+:title-page:
+
+[[andreas-gajdosik]]
+= Nikola Janů: Portfolio & CV
+
+== CV
+
+BcA. Nikola Janů. Born in June 1994. Living in Brno, Czech Republic.
+
+=== Education
+
+- 2019-now: Masters study - Brno University of Technology, Faculty of Fine Arts, Some Studio - MgA. Somebody, Ph.D. +
+- 2014-2019: Bachelors study - Brno University of Technology, Faculty of Fine Arts, Some Studio - Mgr. Somebody, Ph.D. +
+
+=== Exhibitions
+* 2020
+** Awesome Exhibition, Monomach Gallery, Brno, CZ
+* 2019
+** Exhibition, Umakart Gallery, Brno, CZ
+
+=== Group Exhibitions
+* 2019
+** We Are Studio, Mine Michal Gallery, Ostrava, CZ
+
+<<<
+== Portfolio
+
+=== 2020
+
+==== Sample Artwork 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+In nisl diam, placerat sed nibh sed, vulputate lobortis ipsum.
+Nam id velit id lorem tristique elementum a ut odio.
+Morbi eget dictum ligula. Ut et metus non est commodo congue et at tellus.
+Cras non ex et diam eleifend auctor.
+Curabitur dignissim in lacus sit amet aliquet.
+
+.Sample Artwork 2, HD screenshot, 2020.
+image::sample2/1.jpg[,600]
+
+<<<
+=== 2019
+
+==== Sample Artwork 1
+
+Nunc dignissim congue lobortis.
+Morbi dignissim tincidunt orci, vel finibus nibh suscipit quis.
+Mauris at convallis ligula. Sed tristique nunc at est pharetra, in finibus metus hendrerit.
+Maecenas eget turpis hendrerit augue varius blandit ac at odio.
+Aenean sed quam posuere, elementum sem vel, lobortis metus.
+Aliquam tincidunt volutpat egestas.
+Proin pharetra sagittis leo vitae dignissim.
+Phasellus id eros ligula. 
+
+.Sample Artwork 1, installation, dimensions variable, 2019.
+image::sample1/1.jpg[,500]
+.Sample Artwork 1, installation, dimensions variable, 2019.
+image::sample1/2.jpg[,500]
